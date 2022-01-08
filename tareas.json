@@ -1,0 +1,20 @@
+[
+    {
+        "titulo":"Diseñar el sitio",
+        "estado":"Realizado"
+    }, 
+    {
+        "titulo":"Maquetado del sitio",
+        "estado":"En progreso"
+    }, 
+    {
+        "titulo":"Funcionalidad del sitio",
+        "estado":"En progreso"
+    }, 
+    {
+        "titulo":"Revisión de errores",
+        "estado":"Pendiente"
+    } 
+    
+]
+
